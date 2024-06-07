@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jagernut/static/css/main.ac28fc8d.css",
+    "main.js": "/jagernut/static/js/main.6c9921fb.js",
+    "index.html": "/jagernut/index.html",
+    "main.ac28fc8d.css.map": "/jagernut/static/css/main.ac28fc8d.css.map",
+    "main.6c9921fb.js.map": "/jagernut/static/js/main.6c9921fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac28fc8d.css",
+    "static/js/main.6c9921fb.js"
+  ]
+}
